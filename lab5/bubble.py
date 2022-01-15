@@ -18,4 +18,3 @@ for i in range(lastIndex):
         print(f"After: {testList}")
         a += 1
     tempIndex -= 1 # Decrease because last element was set
-    # Najgorsza postać danych wejściowych: gdy liczby ustawione są malejąco(największa ilość operacji przestawiania do wykonania) - ilość iteracji zawsze taka sama
